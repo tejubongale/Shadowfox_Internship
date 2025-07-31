@@ -1,0 +1,11 @@
+Basic Arithmetic [23.0 + 45.0] = 68.0
+Square Root of 34.0 = 5.830951894845301
+Power [34.0^56.0] = 5.791877320528713E85
+Celsius to Fahrenheit: 45.0°C = 113.0°F
+Fahrenheit to Celsius: 65.0°F = 18.333333333333332°C
+INR to USD: ₹34.0 = $0.40963855421686746
+USD to INR: $34.0 = ₹2822.0
+Fahrenheit to Celsius: 22.0°F = -5.555555555555555°C
+Fahrenheit to Celsius: 2.0°F = -16.666666666666668°C
+INR to USD: rupee34.0 = $0.40963855421686746
+USD to INR: $34.0 = rupee2822.0
